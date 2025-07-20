@@ -1,6 +1,6 @@
 # HTML Essentials – Cisco Networking Academy Course Projects
 
-This repository contains a collection of beginner-level HTML projects developed as part of the [Cisco Networking Academy HTML course](https://www.netacad.com/). Each file in this repository corresponds to a module assignment that explores core concepts of HTML5 through practical examples.
+This repository contains a collection of beginner-level HTML projects developed as part of the [Cisco Networking Academy HTML Essentials course](https://www.netacad.com/courses/html-essentials). Each file in this repository corresponds to a module assignment that explores core concepts of HTML5 through practical examples.
 
 ## 🧠 What This Repo Covers
 
