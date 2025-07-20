@@ -4,33 +4,46 @@ This repository contains a collection of beginner-level HTML projects developed 
 
 ## 🧠 What This Repo Covers
 
-- Individual HTML projects based on each module
-- Realistic use cases: community center, band website, recipe guide, school event page, and plant shop
-- Semantic HTML structure and accessibility practices
+- Individual HTML projects from each course module
+- A comprehensive final project: a travel blog website with multiple pages
+- Realistic themes: from community centers to cooking blogs, school events, and travel adventures
 
 ## 🗂️ Project Files Overview
 
 | Module | File Name       | Project Theme                         |
 |--------|------------------|----------------------------------------|
 | 1      | `flower.html`    | Indoor plant catalog with product info |
-| 2      | `chef.html`      | Thai recipe page with tips and table   |
-| 3      | `band.html`      | Band website with audio/video/media    |
+| 2      | `chef.html`      | Thai recipe page with cooking tips     |
+| 3      | `band.html`      | Band website with media and tour info  |
 | 4      | `school.html`    | School event announcement page         |
 | 5      | `community.html` | Community center with navigation and ARIA |
+| 6      | `world.html`     | Web enhancement techniques (e.g., favicons, APIs) |
+
+### 📁 Final Project – Travel Blog Website
+
+Located in the `cities/` folder, this is a multi-page website that combines all skills from the previous modules.
+
+**Files:**
+- `index.html`: Homepage with header, navigation, slideshow, and newsletter
+- `city1.html`: City detail page with multimedia and stories
+- `contact.html`: Contact form with accessible input fields
+- `favicon.ico`: Custom favicon for branding
+- `styles.css`: External stylesheet for consistent styling
 
 ## 🧪 Skills Demonstrated
 
-- Proper HTML5 structure (`<!DOCTYPE>`, `<head>`, `<body>`)
-- Headings, paragraphs, images, and links
-- Lists (`ul`, `ol`), tables, forms, and blockquotes
-- Multimedia embedding: `<audio>` and `<video>`
-- Semantic and accessible HTML practices
-- Use of inline styles and structured layout
+- Semantic HTML5 structure and best practices
+- Lists, tables, forms, audio/video, and embedded media
+- Navigation menus, multimedia galleries, and styled layouts
+- Accessibility improvements and ARIA roles
+- Form elements: input, textarea, labels, and submit buttons
+- Image organization using `<figure>` and `<figcaption>`
+- Project structure and file organization
 
-## 💡 Notes
+## 📌 Notes
 
-- Each project is self-contained and reflects a specific HTML concept taught in the course.
-- Designed as part of foundational web development training.
+- Each module file is a standalone mini-project focused on a specific HTML topic
+- The final project brings everything together in a full-featured website
 
 ## 📫 Connect With Me
 
